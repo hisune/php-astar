@@ -5,4 +5,8 @@ A星算法是一种广泛运用在游戏里的寻路算法，这是一个A星算
 
 A-star algorithm is a widely used in the game pathfinding algorithm, this is a PHP simple for A-star algorithm.
 
+### demo
+
+https://demo.hisune.com/php-astar/
+
 code by hisune(http://hisune.com)
